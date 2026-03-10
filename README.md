@@ -5,6 +5,7 @@ A simple e-commerce mobile application built with Flutter, featuring a robust lo
 ## 📱 Features
 
 ### Core Features
+
 - **Product Management**: Full CRUD operations for products
 - **Shopping Cart**: Complete cart management with persistent storage
 - **User Authentication**: Secure login/register system
